@@ -1,0 +1,1304 @@
+[
+    {
+        "artist": "Katy Perry",
+        "id": 1,
+        "title": "I Kissed A Girl",
+        "clip_path": "clips/ce4de72c38d45c59a7cb074c9b66e994_clip.mp3",
+        "reveal_path": "reveals/ce4de72c38d45c59a7cb074c9b66e994_reveal.mp3"
+    },
+    {
+        "artist": "Simple Minds",
+        "id": 2,
+        "title": "Don't You Forget About Me",
+        "clip_path": "clips/e087ffe5bb2be87895a91a6a969e7f71_clip.mp3",
+        "reveal_path": "reveals/e087ffe5bb2be87895a91a6a969e7f71_reveal.mp3"
+    },
+    {
+        "artist": "Beautiful South",
+        "id": 3,
+        "title": "36D",
+        "clip_path": "clips/88f9441d544131e6afa36bdc61434382_clip.mp3",
+        "reveal_path": "reveals/88f9441d544131e6afa36bdc61434382_reveal.mp3"
+    },
+    {
+        "artist": "Monkees",
+        "id": 4,
+        "title": "Last Train To Clarkesville",
+        "clip_path": "clips/7c26d8cb99e513c5dcef2bac2ad51c82_clip.mp3",
+        "reveal_path": "reveals/7c26d8cb99e513c5dcef2bac2ad51c82_reveal.mp3"
+    },
+    {
+        "artist": "Womack & Womack",
+        "id": 5,
+        "title": "Teardrops",
+        "clip_path": "clips/f31217233ee8b615a744f7182977da17_clip.mp3",
+        "reveal_path": "reveals/f31217233ee8b615a744f7182977da17_reveal.mp3"
+    },
+    {
+        "artist": "Weather Girls",
+        "id": 6,
+        "title": "It's Raining Men",
+        "clip_path": "clips/32a7789458ca9d2a6e4ef85a6e2f0ee1_clip.mp3",
+        "reveal_path": "reveals/32a7789458ca9d2a6e4ef85a6e2f0ee1_reveal.mp3"
+    },
+    {
+        "artist": "Wham",
+        "id": 7,
+        "title": "Club Tropicana",
+        "clip_path": "clips/2fc97fa1616f125746ad0b6350727703_clip.mp3",
+        "reveal_path": "reveals/2fc97fa1616f125746ad0b6350727703_reveal.mp3"
+    },
+    {
+        "artist": "Darius",
+        "id": 8,
+        "title": "Colourblind",
+        "clip_path": "clips/92c083b47503b998b0d3d5090a0f9305_clip.mp3",
+        "reveal_path": "reveals/92c083b47503b998b0d3d5090a0f9305_reveal.mp3"
+    },
+    {
+        "artist": "Bucks Fizz",
+        "id": 9,
+        "title": "Making Your Mind Up",
+        "clip_path": "clips/bf64dfbccf1597f3d089dec7e02aeff5_clip.mp3",
+        "reveal_path": "reveals/bf64dfbccf1597f3d089dec7e02aeff5_reveal.mp3"
+    },
+    {
+        "artist": "Spice Girls",
+        "id": 10,
+        "title": "Viva Forever",
+        "clip_path": "clips/8f0c27d658ffed3268595841607cc003_clip.mp3",
+        "reveal_path": "reveals/8f0c27d658ffed3268595841607cc003_reveal.mp3"
+    },
+    {
+        "artist": "Belinda Carlisle",
+        "id": 11,
+        "title": "Circle In The Sand",
+        "clip_path": "clips/660164591f8f9362f4fbc56ce4160eb9_clip.mp3",
+        "reveal_path": "reveals/660164591f8f9362f4fbc56ce4160eb9_reveal.mp3"
+    },
+    {
+        "artist": "Undercover",
+        "id": 12,
+        "title": "Never Let Her Slip Away",
+        "clip_path": "clips/2f55aa47b9437dc057c2e07366a8e867_clip.mp3",
+        "reveal_path": "reveals/2f55aa47b9437dc057c2e07366a8e867_reveal.mp3"
+    },
+    {
+        "artist": "Hanson",
+        "id": 13,
+        "title": "MMMBop",
+        "clip_path": "clips/efab3c548bd35300fba622d7379e8068_clip.mp3",
+        "reveal_path": "reveals/efab3c548bd35300fba622d7379e8068_reveal.mp3"
+    },
+    {
+        "artist": "Pink",
+        "id": 14,
+        "title": "Get The Party Started",
+        "clip_path": "clips/006961368ee13c644c3d0ec4e674cbd9_clip.mp3",
+        "reveal_path": "reveals/006961368ee13c644c3d0ec4e674cbd9_reveal.mp3"
+    },
+    {
+        "artist": "Shakira",
+        "id": 15,
+        "title": "Hip's Dont Lie",
+        "clip_path": "clips/b4ea244f982f8f83fccc79efdd9dd2c2_clip.mp3",
+        "reveal_path": "reveals/b4ea244f982f8f83fccc79efdd9dd2c2_reveal.mp3"
+    },
+    {
+        "artist": "Foreigner",
+        "id": 16,
+        "title": "I Want To Know What Love Is",
+        "clip_path": "clips/de3e7dc2cd420b713fbbe44dcf368156_clip.mp3",
+        "reveal_path": "reveals/de3e7dc2cd420b713fbbe44dcf368156_reveal.mp3"
+    },
+    {
+        "artist": "Pet Shop Boys",
+        "id": 17,
+        "title": "West End Girls",
+        "clip_path": "clips/7c17fdae2734fa6a97260cc61b4dcd1b_clip.mp3",
+        "reveal_path": "reveals/7c17fdae2734fa6a97260cc61b4dcd1b_reveal.mp3"
+    },
+    {
+        "artist": "Mika",
+        "id": 18,
+        "title": "Grace Kelly",
+        "clip_path": "clips/49845d30fa247048e0bc8a2750befa83_clip.mp3",
+        "reveal_path": "reveals/49845d30fa247048e0bc8a2750befa83_reveal.mp3"
+    },
+    {
+        "artist": "Sinitta",
+        "id": 19,
+        "title": "So Macho",
+        "clip_path": "clips/ccbd183eefd1b27d480e95f07514f4d5_clip.mp3",
+        "reveal_path": "reveals/ccbd183eefd1b27d480e95f07514f4d5_reveal.mp3"
+    },
+    {
+        "artist": "Texas",
+        "id": 20,
+        "title": "Say What You Want",
+        "clip_path": "clips/0c8ea55efc37b8ba91013eb86829fc73_clip.mp3",
+        "reveal_path": "reveals/0c8ea55efc37b8ba91013eb86829fc73_reveal.mp3"
+    },
+    {
+        "artist": "Rod Stewart",
+        "id": 21,
+        "title": "Maggie May",
+        "clip_path": "clips/451b308b39b1e8fbd2d991cbdafac302_clip.mp3",
+        "reveal_path": "reveals/451b308b39b1e8fbd2d991cbdafac302_reveal.mp3"
+    },
+    {
+        "artist": "PJ And Duncan",
+        "id": 22,
+        "title": "Let's Get Ready To Rhumble",
+        "clip_path": "clips/e2799ccf8cab9ef0bf71511a44751528_clip.mp3",
+        "reveal_path": "reveals/e2799ccf8cab9ef0bf71511a44751528_reveal.mp3"
+    },
+    {
+        "artist": "Drifters",
+        "id": 23,
+        "title": "Kissin' In The Back Row Of The Movies",
+        "clip_path": "clips/3503f7e67bada152f65ba548b57b86da_clip.mp3",
+        "reveal_path": "reveals/3503f7e67bada152f65ba548b57b86da_reveal.mp3"
+    },
+    {
+        "artist": "Daft Punk Feat Pharrell Williams",
+        "id": 24,
+        "title": "Get Lucky",
+        "clip_path": "clips/e33139b1ba754d492b2963ef2d2d30d7_clip.mp3",
+        "reveal_path": "reveals/e33139b1ba754d492b2963ef2d2d30d7_reveal.mp3"
+    },
+    {
+        "artist": "Bon Jovi",
+        "id": 25,
+        "title": "You Give Love A Bad Name",
+        "clip_path": "clips/d66661b41b69e4474c68cf2cf9b7230b_clip.mp3",
+        "reveal_path": "reveals/d66661b41b69e4474c68cf2cf9b7230b_reveal.mp3"
+    },
+    {
+        "artist": "Jennifer Lopez",
+        "id": 26,
+        "title": "Love Don't Cost A Thing",
+        "clip_path": "clips/586ba3b527a64ec8f64a4bd49a9fe286_clip.mp3",
+        "reveal_path": "reveals/586ba3b527a64ec8f64a4bd49a9fe286_reveal.mp3"
+    },
+    {
+        "artist": "Katrina And The Waves",
+        "id": 27,
+        "title": "Walking On Sunshine",
+        "clip_path": "clips/cbab98fa74c71354bbafabbe41d14641_clip.mp3",
+        "reveal_path": "reveals/cbab98fa74c71354bbafabbe41d14641_reveal.mp3"
+    },
+    {
+        "artist": "Cher",
+        "id": 28,
+        "title": "If I Could Turn Back Time",
+        "clip_path": "clips/02c77d173782a85412bbf8bb9394ffc6_clip.mp3",
+        "reveal_path": "reveals/02c77d173782a85412bbf8bb9394ffc6_reveal.mp3"
+    },
+    {
+        "artist": "Michael Jackson",
+        "id": 29,
+        "title": "Man In The Mirror",
+        "clip_path": "clips/bfdc3376205315d49c28af2a265c459c_clip.mp3",
+        "reveal_path": "reveals/bfdc3376205315d49c28af2a265c459c_reveal.mp3"
+    },
+    {
+        "artist": "Daniel Beddingfield",
+        "id": 30,
+        "title": "Gotta Get Through This",
+        "clip_path": "clips/75ed13de0c357e90c9fc34c8a93a595e_clip.mp3",
+        "reveal_path": "reveals/75ed13de0c357e90c9fc34c8a93a595e_reveal.mp3"
+    },
+    {
+        "artist": "No Doubt",
+        "id": 31,
+        "title": "Don't Speak",
+        "clip_path": "clips/4062c81c95977a419670232761be6519_clip.mp3",
+        "reveal_path": "reveals/4062c81c95977a419670232761be6519_reveal.mp3"
+    },
+    {
+        "artist": "Boyzone",
+        "id": 32,
+        "title": "Father And Son",
+        "clip_path": "clips/acfcf5fb2f0a584f9f5313a7e35aae77_clip.mp3",
+        "reveal_path": "reveals/acfcf5fb2f0a584f9f5313a7e35aae77_reveal.mp3"
+    },
+    {
+        "artist": "Spice Girls",
+        "id": 33,
+        "title": "Stop",
+        "clip_path": "clips/e56e4634f24d338df497cedb5ffe4cf4_clip.mp3",
+        "reveal_path": "reveals/e56e4634f24d338df497cedb5ffe4cf4_reveal.mp3"
+    },
+    {
+        "artist": "Maria McKee",
+        "id": 34,
+        "title": "Show Me Heaven",
+        "clip_path": "clips/d5bc6ac8f5191ae57c543bfccbe8b043_clip.mp3",
+        "reveal_path": "reveals/d5bc6ac8f5191ae57c543bfccbe8b043_reveal.mp3"
+    },
+    {
+        "artist": "Pulp",
+        "id": 35,
+        "title": "Common People",
+        "clip_path": "clips/9f556bbd5d157f05a3ca33fbcac008e7_clip.mp3",
+        "reveal_path": "reveals/9f556bbd5d157f05a3ca33fbcac008e7_reveal.mp3"
+    },
+    {
+        "artist": "Carly Rae Jepsen",
+        "id": 36,
+        "title": "Call Me Maybe",
+        "clip_path": "clips/419fafa12d2ac8e423afcca57ac75ad0_clip.mp3",
+        "reveal_path": "reveals/419fafa12d2ac8e423afcca57ac75ad0_reveal.mp3"
+    },
+    {
+        "artist": "Pat Benetar",
+        "id": 37,
+        "title": "Love Is A Battlefield",
+        "clip_path": "clips/4bc52bbf93d50fe3a93b26f8c29da557_clip.mp3",
+        "reveal_path": "reveals/4bc52bbf93d50fe3a93b26f8c29da557_reveal.mp3"
+    },
+    {
+        "artist": "New Edition",
+        "id": 38,
+        "title": "Candy Girl",
+        "clip_path": "clips/4c3e5dc57a3a9a008b2009ab73a9799b_clip.mp3",
+        "reveal_path": "reveals/4c3e5dc57a3a9a008b2009ab73a9799b_reveal.mp3"
+    },
+    {
+        "artist": "Everly Bros",
+        "id": 39,
+        "title": "Bye Bye Love",
+        "clip_path": "clips/61d42195fb36e87dd94f26de587af4bf_clip.mp3",
+        "reveal_path": "reveals/61d42195fb36e87dd94f26de587af4bf_reveal.mp3"
+    },
+    {
+        "artist": "Hollies",
+        "id": 40,
+        "title": "The Air That I Breathe",
+        "clip_path": "clips/87215f0f65afdc41b3946cc12ba98888_clip.mp3",
+        "reveal_path": "reveals/87215f0f65afdc41b3946cc12ba98888_reveal.mp3"
+    },
+    {
+        "artist": "Johnny Mathis",
+        "id": 41,
+        "title": "When A Child Is Born",
+        "clip_path": "clips/cb1c488bf5f1bb11668adf65b528d5b7_clip.mp3",
+        "reveal_path": "reveals/cb1c488bf5f1bb11668adf65b528d5b7_reveal.mp3"
+    },
+    {
+        "artist": "Cutting Crew",
+        "id": 42,
+        "title": "I Just Died In Your Arms",
+        "clip_path": "clips/b6bb89adb34c9108c4d9b73e55493d85_clip.mp3",
+        "reveal_path": "reveals/b6bb89adb34c9108c4d9b73e55493d85_reveal.mp3"
+    },
+    {
+        "artist": "Jason Donovan",
+        "id": 43,
+        "title": "Too Many Broken Hearts",
+        "clip_path": "clips/ec97685dfdac56f8cfe65a66c5831b43_clip.mp3",
+        "reveal_path": "reveals/ec97685dfdac56f8cfe65a66c5831b43_reveal.mp3"
+    },
+    {
+        "artist": "Tears For Fears",
+        "id": 44,
+        "title": "Woman In Chains",
+        "clip_path": "clips/6f60471ab61389b85cb2fa3a0f7595d1_clip.mp3",
+        "reveal_path": "reveals/6f60471ab61389b85cb2fa3a0f7595d1_reveal.mp3"
+    },
+    {
+        "artist": "Sugababes",
+        "id": 45,
+        "title": "About You Now",
+        "clip_path": "clips/44ff95450533406c300ed8cb44433d51_clip.mp3",
+        "reveal_path": "reveals/44ff95450533406c300ed8cb44433d51_reveal.mp3"
+    },
+    {
+        "artist": "Frankie Goes To Hollywood",
+        "id": 46,
+        "title": "Two Tribes",
+        "clip_path": "clips/f17a8bda13ade7f7f61ac76c2e7059db_clip.mp3",
+        "reveal_path": "reveals/f17a8bda13ade7f7f61ac76c2e7059db_reveal.mp3"
+    },
+    {
+        "artist": "Neneh Cherry",
+        "id": 47,
+        "title": "Buffalo Stance",
+        "clip_path": "clips/69c9f0916b7665fc37eb63993189e17e_clip.mp3",
+        "reveal_path": "reveals/69c9f0916b7665fc37eb63993189e17e_reveal.mp3"
+    },
+    {
+        "artist": "Shirelles",
+        "id": 48,
+        "title": "Will You Still Love Me Tomorrow",
+        "clip_path": "clips/5098c0802d0324f0daa9592a8ceb23c3_clip.mp3",
+        "reveal_path": "reveals/5098c0802d0324f0daa9592a8ceb23c3_reveal.mp3"
+    },
+    {
+        "artist": "Beautiful South",
+        "id": 49,
+        "title": "Old Red Eyes Is Back",
+        "clip_path": "clips/1effd8fffd51ca5f121be9f815d7e76c_clip.mp3",
+        "reveal_path": "reveals/1effd8fffd51ca5f121be9f815d7e76c_reveal.mp3"
+    },
+    {
+        "artist": "Rihanna",
+        "id": 50,
+        "title": "Diamonds",
+        "clip_path": "clips/70980dbd08eaade2c9d15498a9259c55_clip.mp3",
+        "reveal_path": "reveals/70980dbd08eaade2c9d15498a9259c55_reveal.mp3"
+    },
+    {
+        "artist": "Supergrass",
+        "id": 51,
+        "title": "Feel Alright",
+        "clip_path": "clips/30ca47e6ea3053a75bb429052f8ee889_clip.mp3",
+        "reveal_path": "reveals/30ca47e6ea3053a75bb429052f8ee889_reveal.mp3"
+    },
+    {
+        "artist": "Bryan Ferry",
+        "id": 52,
+        "title": "Dance Away",
+        "clip_path": "clips/480fb4d7b6573cab223ccd42c980be16_clip.mp3",
+        "reveal_path": "reveals/480fb4d7b6573cab223ccd42c980be16_reveal.mp3"
+    },
+    {
+        "artist": "Mel & Kim",
+        "id": 53,
+        "title": "Respectable",
+        "clip_path": "clips/b00151e62e8b4d8818f58837c85062e8_clip.mp3",
+        "reveal_path": "reveals/b00151e62e8b4d8818f58837c85062e8_reveal.mp3"
+    },
+    {
+        "artist": "Beatles",
+        "id": 54,
+        "title": "Get Back",
+        "clip_path": "clips/357c945f4c685062f1da274389c768e7_clip.mp3",
+        "reveal_path": "reveals/357c945f4c685062f1da274389c768e7_reveal.mp3"
+    },
+    {
+        "artist": "Human League",
+        "id": 55,
+        "title": "Don't You Want Me Baby",
+        "clip_path": "clips/9bb96e7c1cfb7fd0b1ad1cf549f2cae4_clip.mp3",
+        "reveal_path": "reveals/9bb96e7c1cfb7fd0b1ad1cf549f2cae4_reveal.mp3"
+    },
+    {
+        "artist": "Perry Como",
+        "id": 56,
+        "title": "Magic Moments",
+        "clip_path": "clips/092b58f1a4373548abf165a69c9dcd22_clip.mp3",
+        "reveal_path": "reveals/092b58f1a4373548abf165a69c9dcd22_reveal.mp3"
+    },
+    {
+        "artist": "Tears For Fears",
+        "id": 57,
+        "title": "Everybody Wants To Rule The World",
+        "clip_path": "clips/a3f9229f06a5b934c96ad431e076937b_clip.mp3",
+        "reveal_path": "reveals/a3f9229f06a5b934c96ad431e076937b_reveal.mp3"
+    },
+    {
+        "artist": "Cher",
+        "id": 58,
+        "title": "Believe",
+        "clip_path": "clips/f2d8b2d964768978a753b47bbbb46837_clip.mp3",
+        "reveal_path": "reveals/f2d8b2d964768978a753b47bbbb46837_reveal.mp3"
+    },
+    {
+        "artist": "Oasis",
+        "id": 59,
+        "title": "Roll With It",
+        "clip_path": "clips/2e1f4c364b504bea7be6479dc039576c_clip.mp3",
+        "reveal_path": "reveals/2e1f4c364b504bea7be6479dc039576c_reveal.mp3"
+    },
+    {
+        "artist": "Paula Abdul",
+        "id": 60,
+        "title": "Straight Up",
+        "clip_path": "clips/ffb2dd0c28b6e8cabf82fd058c1bad82_clip.mp3",
+        "reveal_path": "reveals/ffb2dd0c28b6e8cabf82fd058c1bad82_reveal.mp3"
+    },
+    {
+        "artist": "Leona Lews",
+        "id": 61,
+        "title": "Bleeding Love",
+        "clip_path": "clips/6ab6b1137c7ce3490936c51188cd46d4_clip.mp3",
+        "reveal_path": "reveals/6ab6b1137c7ce3490936c51188cd46d4_reveal.mp3"
+    },
+    {
+        "artist": "Starship",
+        "id": 62,
+        "title": "We Built This City",
+        "clip_path": "clips/1e60e9e52552653f112f93426f0ebdba_clip.mp3",
+        "reveal_path": "reveals/1e60e9e52552653f112f93426f0ebdba_reveal.mp3"
+    },
+    {
+        "artist": "Charlotte Church",
+        "id": 63,
+        "title": "Crazy Chick",
+        "clip_path": "clips/d53aa3fe9ae5b5ce9f162855466104ac_clip.mp3",
+        "reveal_path": "reveals/d53aa3fe9ae5b5ce9f162855466104ac_reveal.mp3"
+    },
+    {
+        "artist": "Leo Sayer",
+        "id": 64,
+        "title": "You Make Me Feel Like Dancing",
+        "clip_path": "clips/b7113689a7d2801a26033c1f4594a91f_clip.mp3",
+        "reveal_path": "reveals/b7113689a7d2801a26033c1f4594a91f_reveal.mp3"
+    },
+    {
+        "artist": "Neil Sedaka",
+        "id": 65,
+        "title": "Oh Carol",
+        "clip_path": "clips/d94844ee43f336dff92dcacfec04a1ce_clip.mp3",
+        "reveal_path": "reveals/d94844ee43f336dff92dcacfec04a1ce_reveal.mp3"
+    },
+    {
+        "artist": "Madonna",
+        "id": 66,
+        "title": "True Blue",
+        "clip_path": "clips/d131b8ed3235ba851b8bd5bca58822f5_clip.mp3",
+        "reveal_path": "reveals/d131b8ed3235ba851b8bd5bca58822f5_reveal.mp3"
+    },
+    {
+        "artist": "Lional Richie",
+        "id": 67,
+        "title": "All Night Long",
+        "clip_path": "clips/b91e1deb1b12f7aee3ca01844a6a4a95_clip.mp3",
+        "reveal_path": "reveals/b91e1deb1b12f7aee3ca01844a6a4a95_reveal.mp3"
+    },
+    {
+        "artist": "Christina Aguilera",
+        "id": 68,
+        "title": "Genie In A Bottle",
+        "clip_path": "clips/cbc812a6d9cbc0816971e37be31f8d51_clip.mp3",
+        "reveal_path": "reveals/cbc812a6d9cbc0816971e37be31f8d51_reveal.mp3"
+    },
+    {
+        "artist": "Abba",
+        "id": 69,
+        "title": "Waterloo",
+        "clip_path": "clips/713e6e2dcc034c978ff7273e66502f50_clip.mp3",
+        "reveal_path": "reveals/713e6e2dcc034c978ff7273e66502f50_reveal.mp3"
+    },
+    {
+        "artist": "Oasis",
+        "id": 70,
+        "title": "Champagne Supernova",
+        "clip_path": "clips/ff92cf83350f02b3fb62cf066b8019e2_clip.mp3",
+        "reveal_path": "reveals/ff92cf83350f02b3fb62cf066b8019e2_reveal.mp3"
+    },
+    {
+        "artist": "Busted",
+        "id": 71,
+        "title": "Crashed The Wedding",
+        "clip_path": "clips/c811093075e0e1d5d29e8040bfa9a5e0_clip.mp3",
+        "reveal_path": "reveals/c811093075e0e1d5d29e8040bfa9a5e0_reveal.mp3"
+    },
+    {
+        "artist": "Deacon Blue",
+        "id": 72,
+        "title": "Dignity",
+        "clip_path": "clips/3c23ac95bd5398b30d813265cc8f9717_clip.mp3",
+        "reveal_path": "reveals/3c23ac95bd5398b30d813265cc8f9717_reveal.mp3"
+    },
+    {
+        "artist": "Blue",
+        "id": 73,
+        "title": "All Rise",
+        "clip_path": "clips/288c29cef0e5a2b6deaa7232a94127a0_clip.mp3",
+        "reveal_path": "reveals/288c29cef0e5a2b6deaa7232a94127a0_reveal.mp3"
+    },
+    {
+        "artist": "Europe",
+        "id": 74,
+        "title": "The Final Countdown",
+        "clip_path": "clips/5032692a07566a3c0a55eaea0f976ad2_clip.mp3",
+        "reveal_path": "reveals/5032692a07566a3c0a55eaea0f976ad2_reveal.mp3"
+    },
+    {
+        "artist": "Village People",
+        "id": 75,
+        "title": "In The Navy",
+        "clip_path": "clips/a240af456fce62a27300d307b7e24d99_clip.mp3",
+        "reveal_path": "reveals/a240af456fce62a27300d307b7e24d99_reveal.mp3"
+    },
+    {
+        "artist": "ABC",
+        "id": 76,
+        "title": "The Look Of Love",
+        "clip_path": "clips/70fd40214f3018897ff0e1e13219e19c_clip.mp3",
+        "reveal_path": "reveals/70fd40214f3018897ff0e1e13219e19c_reveal.mp3"
+    },
+    {
+        "artist": "Beatles",
+        "id": 77,
+        "title": "Drive My Car",
+        "clip_path": "clips/e09cf9dd832fd2b8d409c6ac0c4e295a_clip.mp3",
+        "reveal_path": "reveals/e09cf9dd832fd2b8d409c6ac0c4e295a_reveal.mp3"
+    },
+    {
+        "artist": "Snow Patrol",
+        "id": 78,
+        "title": "Chasing Cars",
+        "clip_path": "clips/0add633b863d65e957d0efbcc468cadd_clip.mp3",
+        "reveal_path": "reveals/0add633b863d65e957d0efbcc468cadd_reveal.mp3"
+    },
+    {
+        "artist": "Avril Lavigne",
+        "id": 79,
+        "title": "Complicated",
+        "clip_path": "clips/4e803e8933c6f40500cc5d72145c325a_clip.mp3",
+        "reveal_path": "reveals/4e803e8933c6f40500cc5d72145c325a_reveal.mp3"
+    },
+    {
+        "artist": "Ricky Valence",
+        "id": 80,
+        "title": "Tell Laura I Love Her",
+        "clip_path": "clips/f1a3c9e12f3acf061bef7fad06198c6d_clip.mp3",
+        "reveal_path": "reveals/f1a3c9e12f3acf061bef7fad06198c6d_reveal.mp3"
+    },
+    {
+        "artist": "Liberty X",
+        "id": 81,
+        "title": "Just A Little",
+        "clip_path": "clips/11dcd4a03b63c2a2fa20fbd167cb2406_clip.mp3",
+        "reveal_path": "reveals/11dcd4a03b63c2a2fa20fbd167cb2406_reveal.mp3"
+    },
+    {
+        "artist": "Dire Straits",
+        "id": 82,
+        "title": "Money For Nothing",
+        "clip_path": "clips/935d2a482d224e1d806b2f3ec08ffaae_clip.mp3",
+        "reveal_path": "reveals/935d2a482d224e1d806b2f3ec08ffaae_reveal.mp3"
+    },
+    {
+        "artist": "Sister Sledge",
+        "id": 83,
+        "title": "We Are Family",
+        "clip_path": "clips/9efa661651f2796bb6dfb073634b4f04_clip.mp3",
+        "reveal_path": "reveals/9efa661651f2796bb6dfb073634b4f04_reveal.mp3"
+    },
+    {
+        "artist": "Beatles",
+        "id": 84,
+        "title": "Paperback Writer",
+        "clip_path": "clips/912f18ce976d011d089b905e0e46e3cc_clip.mp3",
+        "reveal_path": "reveals/912f18ce976d011d089b905e0e46e3cc_reveal.mp3"
+    },
+    {
+        "artist": "Wham",
+        "id": 85,
+        "title": "The Edge Of Heaven",
+        "clip_path": "clips/7c7f036982f597b9f4c8720912d867e9_clip.mp3",
+        "reveal_path": "reveals/7c7f036982f597b9f4c8720912d867e9_reveal.mp3"
+    },
+    {
+        "artist": "Huey Lewis And The News",
+        "id": 86,
+        "title": "The Power Of Love",
+        "clip_path": "clips/b6953cbce6719ba3239bd4326fbed5c4_clip.mp3",
+        "reveal_path": "reveals/b6953cbce6719ba3239bd4326fbed5c4_reveal.mp3"
+    },
+    {
+        "artist": "Craig David",
+        "id": 87,
+        "title": "7 Days",
+        "clip_path": "clips/3ff3ee694b0359d27596df88d4a3b976_clip.mp3",
+        "reveal_path": "reveals/3ff3ee694b0359d27596df88d4a3b976_reveal.mp3"
+    },
+    {
+        "artist": "Cameo",
+        "id": 88,
+        "title": "Word Up",
+        "clip_path": "clips/8e045979f346469ef73b1a8e3a55ff52_clip.mp3",
+        "reveal_path": "reveals/8e045979f346469ef73b1a8e3a55ff52_reveal.mp3"
+    },
+    {
+        "artist": "Shania Twain",
+        "id": 89,
+        "title": "That Dont Impress Me Much",
+        "clip_path": "clips/daac6adcce20973367ad604da1b45399_clip.mp3",
+        "reveal_path": "reveals/daac6adcce20973367ad604da1b45399_reveal.mp3"
+    },
+    {
+        "artist": "Adam And The Ants",
+        "id": 90,
+        "title": "Stand And Deliver",
+        "clip_path": "clips/d4687a13ee71d7f06eca012bf5979c06_clip.mp3",
+        "reveal_path": "reveals/d4687a13ee71d7f06eca012bf5979c06_reveal.mp3"
+    },
+    {
+        "artist": "Meatloaf",
+        "id": 91,
+        "title": "I'd Do Anything For Love",
+        "clip_path": "clips/fc5c218bc2f7f2d216388e6cae4d8270_clip.mp3",
+        "reveal_path": "reveals/fc5c218bc2f7f2d216388e6cae4d8270_reveal.mp3"
+    },
+    {
+        "artist": "Roxette",
+        "id": 92,
+        "title": "The Look",
+        "clip_path": "clips/372e641d5299b21495d42cb9d84f9feb_clip.mp3",
+        "reveal_path": "reveals/372e641d5299b21495d42cb9d84f9feb_reveal.mp3"
+    },
+    {
+        "artist": "Cliff Richard",
+        "id": 93,
+        "title": "Living Doll",
+        "clip_path": "clips/b326ecf38d183d2d45bb818e15e37f2a_clip.mp3",
+        "reveal_path": "reveals/b326ecf38d183d2d45bb818e15e37f2a_reveal.mp3"
+    },
+    {
+        "artist": "Elton John",
+        "id": 94,
+        "title": "Crocodile Rock",
+        "clip_path": "clips/e2dcb645cce58379742bbfa62a4138a0_clip.mp3",
+        "reveal_path": "reveals/e2dcb645cce58379742bbfa62a4138a0_reveal.mp3"
+    },
+    {
+        "artist": "Backstreet boys",
+        "id": 95,
+        "title": "Everybody",
+        "clip_path": "clips/b1a6f7e73d6c73861b2d0361417e763f_clip.mp3",
+        "reveal_path": "reveals/b1a6f7e73d6c73861b2d0361417e763f_reveal.mp3"
+    },
+    {
+        "artist": "Busted",
+        "id": 96,
+        "title": "You Said No",
+        "clip_path": "clips/cfd90e2c6df4ea0fcf630accf6e66a8d_clip.mp3",
+        "reveal_path": "reveals/cfd90e2c6df4ea0fcf630accf6e66a8d_reveal.mp3"
+    },
+    {
+        "artist": "Jessie J",
+        "id": 97,
+        "title": "Price Tag",
+        "clip_path": "clips/e07c2fc8bdfb016964e780924167df4c_clip.mp3",
+        "reveal_path": "reveals/e07c2fc8bdfb016964e780924167df4c_reveal.mp3"
+    },
+    {
+        "artist": "Brian McFadden & Delta Goodrum",
+        "id": 98,
+        "title": "Almost Here",
+        "clip_path": "clips/725b56a736c180ece4ac625e396c20d1_clip.mp3",
+        "reveal_path": "reveals/725b56a736c180ece4ac625e396c20d1_reveal.mp3"
+    },
+    {
+        "artist": "Gnarls Barclay",
+        "id": 99,
+        "title": "Crazy",
+        "clip_path": "clips/d69ca5d178a9daf84e72793eb93bb270_clip.mp3",
+        "reveal_path": "reveals/d69ca5d178a9daf84e72793eb93bb270_reveal.mp3"
+    },
+    {
+        "artist": "Sophie Ellis Bextor",
+        "id": 100,
+        "title": "Murder On The Dancefloor",
+        "clip_path": "clips/d74b299c9c25f923eb5e2b8bf6859174_clip.mp3",
+        "reveal_path": "reveals/d74b299c9c25f923eb5e2b8bf6859174_reveal.mp3"
+    },
+    {
+        "artist": "Melanie C",
+        "id": 101,
+        "title": "Northern Star",
+        "clip_path": "clips/a5b3862ae2bd734fb51ada2bc69686c7_clip.mp3",
+        "reveal_path": "reveals/a5b3862ae2bd734fb51ada2bc69686c7_reveal.mp3"
+    },
+    {
+        "artist": "Wham",
+        "id": 102,
+        "title": "I'm Your Man",
+        "clip_path": "clips/c1b8f978c5a8556f07adecf33cce6c8b_clip.mp3",
+        "reveal_path": "reveals/c1b8f978c5a8556f07adecf33cce6c8b_reveal.mp3"
+    },
+    {
+        "artist": "Spice Girls",
+        "id": 103,
+        "title": "2 Become 1",
+        "clip_path": "clips/a65522e4173ac43e925a1e48017f726e_clip.mp3",
+        "reveal_path": "reveals/a65522e4173ac43e925a1e48017f726e_reveal.mp3"
+    },
+    {
+        "artist": "Cher",
+        "id": 104,
+        "title": "Walking in Memphis",
+        "clip_path": "clips/4df53cf2eae38482f1f19004e74561ea_clip.mp3",
+        "reveal_path": "reveals/4df53cf2eae38482f1f19004e74561ea_reveal.mp3"
+    },
+    {
+        "artist": "Robbie Williams",
+        "id": 105,
+        "title": "No Regrets",
+        "clip_path": "clips/7e3e8fddaefcc84c066b0aec2f12d01e_clip.mp3",
+        "reveal_path": "reveals/7e3e8fddaefcc84c066b0aec2f12d01e_reveal.mp3"
+    },
+    {
+        "artist": "Atomic Kitten",
+        "id": 106,
+        "title": "Whole Again",
+        "clip_path": "clips/d8c1c7e6322947467b9421e913cf39ae_clip.mp3",
+        "reveal_path": "reveals/d8c1c7e6322947467b9421e913cf39ae_reveal.mp3"
+    },
+    {
+        "artist": "Deep Blue Something",
+        "id": 107,
+        "title": "Breakfast At Tiffanys",
+        "clip_path": "clips/8d3a86936544d6809e152019af5c238c_clip.mp3",
+        "reveal_path": "reveals/8d3a86936544d6809e152019af5c238c_reveal.mp3"
+    },
+    {
+        "artist": "Ace of Base",
+        "id": 108,
+        "title": "All That She Wants",
+        "clip_path": "clips/7e77adeae0a18bb2fdff7327f1a361a7_clip.mp3",
+        "reveal_path": "reveals/7e77adeae0a18bb2fdff7327f1a361a7_reveal.mp3"
+    },
+    {
+        "artist": "Talking Heads",
+        "id": 109,
+        "title": "Road To Nowhere",
+        "clip_path": "clips/45b6b568668b79a72fd03da6c371562d_clip.mp3",
+        "reveal_path": "reveals/45b6b568668b79a72fd03da6c371562d_reveal.mp3"
+    },
+    {
+        "artist": "Sandie Shaw",
+        "id": 110,
+        "title": "Puppet On A String",
+        "clip_path": "clips/52775b2547e0c8cfc841e30773e050d5_clip.mp3",
+        "reveal_path": "reveals/52775b2547e0c8cfc841e30773e050d5_reveal.mp3"
+    },
+    {
+        "artist": "Beach Boys",
+        "id": 111,
+        "title": "I Get Around",
+        "clip_path": "clips/4adab61e8675ff44246a03d4a2410c90_clip.mp3",
+        "reveal_path": "reveals/4adab61e8675ff44246a03d4a2410c90_reveal.mp3"
+    },
+    {
+        "artist": "James",
+        "id": 112,
+        "title": "Sit Down",
+        "clip_path": "clips/01ba9ae5c6f2459fc2337941c751609b_clip.mp3",
+        "reveal_path": "reveals/01ba9ae5c6f2459fc2337941c751609b_reveal.mp3"
+    },
+    {
+        "artist": "Avril Lavigne",
+        "id": 113,
+        "title": "Sk8er Boi",
+        "clip_path": "clips/977e6c8f1e6a3e5d372be882eabc69de_clip.mp3",
+        "reveal_path": "reveals/977e6c8f1e6a3e5d372be882eabc69de_reveal.mp3"
+    },
+    {
+        "artist": "Ed Sheeran",
+        "id": 114,
+        "title": "Sing",
+        "clip_path": "clips/5d0793b771051b9b6fa793d08123bbd2_clip.mp3",
+        "reveal_path": "reveals/5d0793b771051b9b6fa793d08123bbd2_reveal.mp3"
+    },
+    {
+        "artist": "Firm",
+        "id": 115,
+        "title": "Star Trekkin",
+        "clip_path": "clips/1025257499033d2b50d2100ac1d3b41d_clip.mp3",
+        "reveal_path": "reveals/1025257499033d2b50d2100ac1d3b41d_reveal.mp3"
+    },
+    {
+        "artist": "Bangles",
+        "id": 116,
+        "title": "Eternal Flame",
+        "clip_path": "clips/c4fb91d2fbca42db30da7743c2d53cbe_clip.mp3",
+        "reveal_path": "reveals/c4fb91d2fbca42db30da7743c2d53cbe_reveal.mp3"
+    },
+    {
+        "artist": "Manic Street Preachers",
+        "id": 117,
+        "title": "If You Tolerate This",
+        "clip_path": "clips/d246b972e8d28b8d6e7803187d970bca_clip.mp3",
+        "reveal_path": "reveals/d246b972e8d28b8d6e7803187d970bca_reveal.mp3"
+    },
+    {
+        "artist": "Duran Duran",
+        "id": 118,
+        "title": "The Reflex",
+        "clip_path": "clips/245a07cd8f83f57a0f1c06e9ccd2d657_clip.mp3",
+        "reveal_path": "reveals/245a07cd8f83f57a0f1c06e9ccd2d657_reveal.mp3"
+    },
+    {
+        "artist": "Phil Collins",
+        "id": 119,
+        "title": "You Can't Hurry Love",
+        "clip_path": "clips/7aac3d1e7abf2d956964f5bcf49d31d1_clip.mp3",
+        "reveal_path": "reveals/7aac3d1e7abf2d956964f5bcf49d31d1_reveal.mp3"
+    },
+    {
+        "artist": "Westlife",
+        "id": 120,
+        "title": "World Of Our Own",
+        "clip_path": "clips/346c3e6114a8dc71d232bd20562f7e05_clip.mp3",
+        "reveal_path": "reveals/346c3e6114a8dc71d232bd20562f7e05_reveal.mp3"
+    },
+    {
+        "artist": "Eternal",
+        "id": 121,
+        "title": "Just A Step From Heaven",
+        "clip_path": "clips/db19db4d0bab5e3593db7567eb612dfb_clip.mp3",
+        "reveal_path": "reveals/db19db4d0bab5e3593db7567eb612dfb_reveal.mp3"
+    },
+    {
+        "artist": "Take That",
+        "id": 122,
+        "title": "Rule The World",
+        "clip_path": "clips/3c0e8d4acd2cd903a986f178bc25354f_clip.mp3",
+        "reveal_path": "reveals/3c0e8d4acd2cd903a986f178bc25354f_reveal.mp3"
+    },
+    {
+        "artist": "Blue",
+        "id": 123,
+        "title": "Fly By",
+        "clip_path": "clips/b6e7af8741519e488e9f96d297e1a605_clip.mp3",
+        "reveal_path": "reveals/b6e7af8741519e488e9f96d297e1a605_reveal.mp3"
+    },
+    {
+        "artist": "Police",
+        "id": 124,
+        "title": "Every Little Thing She Does Is Magic",
+        "clip_path": "clips/9eafd6d1775563c19a0b4282d554b794_clip.mp3",
+        "reveal_path": "reveals/9eafd6d1775563c19a0b4282d554b794_reveal.mp3"
+    },
+    {
+        "artist": "Beach Boys",
+        "id": 125,
+        "title": "Good Vibrations",
+        "clip_path": "clips/109ec68d721ced92f22c48a2de12af90_clip.mp3",
+        "reveal_path": "reveals/109ec68d721ced92f22c48a2de12af90_reveal.mp3"
+    },
+    {
+        "artist": "Buddy Holly",
+        "id": 126,
+        "title": "Oh Boy",
+        "clip_path": "clips/7de6ee19f3d38e319e9aee20b2c5a968_clip.mp3",
+        "reveal_path": "reveals/7de6ee19f3d38e319e9aee20b2c5a968_reveal.mp3"
+    },
+    {
+        "artist": "Katy Perry",
+        "id": 127,
+        "title": "Last Friday Night",
+        "clip_path": "clips/119616786c1f574eb837d12098c05c24_clip.mp3",
+        "reveal_path": "reveals/119616786c1f574eb837d12098c05c24_reveal.mp3"
+    },
+    {
+        "artist": "Miley Cyrus",
+        "id": 128,
+        "title": "Can't Be Tamed",
+        "clip_path": "clips/5143c628251884e94bbe414f6c719e91_clip.mp3",
+        "reveal_path": "reveals/5143c628251884e94bbe414f6c719e91_reveal.mp3"
+    },
+    {
+        "artist": "Salt N Pepa",
+        "id": 129,
+        "title": "Let's Talk About Sex",
+        "clip_path": "clips/99f8799b91749c9573dd15785232ad55_clip.mp3",
+        "reveal_path": "reveals/99f8799b91749c9573dd15785232ad55_reveal.mp3"
+    },
+    {
+        "artist": "Yazoo",
+        "id": 130,
+        "title": "Don't Go",
+        "clip_path": "clips/713a3ff1699912ef8c345390c334ddd1_clip.mp3",
+        "reveal_path": "reveals/713a3ff1699912ef8c345390c334ddd1_reveal.mp3"
+    },
+    {
+        "artist": "Adele",
+        "id": 131,
+        "title": "Set Fire To The Rain",
+        "clip_path": "clips/7521393741059002c13a2c1ec637fcd9_clip.mp3",
+        "reveal_path": "reveals/7521393741059002c13a2c1ec637fcd9_reveal.mp3"
+    },
+    {
+        "artist": "Amy Winehouse",
+        "id": 132,
+        "title": "Rehab",
+        "clip_path": "clips/20d9f4200a4618546e7701b4dbbf4707_clip.mp3",
+        "reveal_path": "reveals/20d9f4200a4618546e7701b4dbbf4707_reveal.mp3"
+    },
+    {
+        "artist": "Bananarama",
+        "id": 133,
+        "title": "I Heard A Rumour",
+        "clip_path": "clips/3720f4582db673b460f7ab81ffa975ae_clip.mp3",
+        "reveal_path": "reveals/3720f4582db673b460f7ab81ffa975ae_reveal.mp3"
+    },
+    {
+        "artist": "Hot Chocolate",
+        "id": 134,
+        "title": "You Sexy Thing",
+        "clip_path": "clips/b122bb15b696c33c997bbe09eb38e833_clip.mp3",
+        "reveal_path": "reveals/b122bb15b696c33c997bbe09eb38e833_reveal.mp3"
+    },
+    {
+        "artist": "Rihanna feat Jay Z",
+        "id": 135,
+        "title": "Umbrella",
+        "clip_path": "clips/ccb4469028874c4cc507e4ab99408325_clip.mp3",
+        "reveal_path": "reveals/ccb4469028874c4cc507e4ab99408325_reveal.mp3"
+    },
+    {
+        "artist": "D-Ream",
+        "id": 136,
+        "title": "Things Can Only Get Better",
+        "clip_path": "clips/a3335676c8cb00f0cdb9a11fc887193f_clip.mp3",
+        "reveal_path": "reveals/a3335676c8cb00f0cdb9a11fc887193f_reveal.mp3"
+    },
+    {
+        "artist": "Madonna",
+        "id": 137,
+        "title": "Like A Prayer",
+        "clip_path": "clips/591515fa78be545ebe543ee29aa0ac93_clip.mp3",
+        "reveal_path": "reveals/591515fa78be545ebe543ee29aa0ac93_reveal.mp3"
+    },
+    {
+        "artist": "Mavericks",
+        "id": 138,
+        "title": "Dance The Night Away",
+        "clip_path": "clips/2c127d9d0a7a332cba20bdd9e1358171_clip.mp3",
+        "reveal_path": "reveals/2c127d9d0a7a332cba20bdd9e1358171_reveal.mp3"
+    },
+    {
+        "artist": "Diana Ross",
+        "id": 139,
+        "title": "Chain Reaction",
+        "clip_path": "clips/720a791a931c1d8ed049d3ed21b2e339_clip.mp3",
+        "reveal_path": "reveals/720a791a931c1d8ed049d3ed21b2e339_reveal.mp3"
+    },
+    {
+        "artist": "Bon Jovi",
+        "id": 140,
+        "title": "Livin' On A Prayer",
+        "clip_path": "clips/86c066933bca12397fedb3f4fd57eeaa_clip.mp3",
+        "reveal_path": "reveals/86c066933bca12397fedb3f4fd57eeaa_reveal.mp3"
+    },
+    {
+        "artist": "Gareth Gates & The Kumars",
+        "id": 141,
+        "title": "Spirit In The Sky",
+        "clip_path": "clips/21a6c95ee086dbfe21fba0ee6e5856fe_clip.mp3",
+        "reveal_path": "reveals/21a6c95ee086dbfe21fba0ee6e5856fe_reveal.mp3"
+    },
+    {
+        "artist": "Katy Perry",
+        "id": 142,
+        "title": "California Gurls",
+        "clip_path": "clips/cb7cfcc81ab8288df341f07389ade4ef_clip.mp3",
+        "reveal_path": "reveals/cb7cfcc81ab8288df341f07389ade4ef_reveal.mp3"
+    },
+    {
+        "artist": "Duran Duran",
+        "id": 143,
+        "title": "A View To A Kill",
+        "clip_path": "clips/01258cbdd86c301ddec5c8831565f165_clip.mp3",
+        "reveal_path": "reveals/01258cbdd86c301ddec5c8831565f165_reveal.mp3"
+    },
+    {
+        "artist": "New Kids On The Block",
+        "id": 144,
+        "title": "Hanging Tough",
+        "clip_path": "clips/7c530669e6fb72b5e900129dda385367_clip.mp3",
+        "reveal_path": "reveals/7c530669e6fb72b5e900129dda385367_reveal.mp3"
+    },
+    {
+        "artist": "MC Hammer",
+        "id": 145,
+        "title": "U Can't Touch This",
+        "clip_path": "clips/6a87ced0ff875024c5ed1eaeddf98db9_clip.mp3",
+        "reveal_path": "reveals/6a87ced0ff875024c5ed1eaeddf98db9_reveal.mp3"
+    },
+    {
+        "artist": "Meatloaf",
+        "id": 146,
+        "title": "Dead Ringer For Love",
+        "clip_path": "clips/600feed48089c6986f429918b8b1926c_clip.mp3",
+        "reveal_path": "reveals/600feed48089c6986f429918b8b1926c_reveal.mp3"
+    },
+    {
+        "artist": "Lipps Inc",
+        "id": 147,
+        "title": "Funkytown",
+        "clip_path": "clips/bcdc446f26a476a157b18539e8777110_clip.mp3",
+        "reveal_path": "reveals/bcdc446f26a476a157b18539e8777110_reveal.mp3"
+    },
+    {
+        "artist": "Mark Morrison",
+        "id": 148,
+        "title": "Return Of The Mack",
+        "clip_path": "clips/74ca1f1f783470096282fd7d55d05941_clip.mp3",
+        "reveal_path": "reveals/74ca1f1f783470096282fd7d55d05941_reveal.mp3"
+    },
+    {
+        "artist": "Manfred Mann",
+        "id": 149,
+        "title": "Blinded By The Light",
+        "clip_path": "clips/e85ad01ba6c5aaef02b54afe68e474bc_clip.mp3",
+        "reveal_path": "reveals/e85ad01ba6c5aaef02b54afe68e474bc_reveal.mp3"
+    },
+    {
+        "artist": "Madonna",
+        "id": 150,
+        "title": "Into The Groove",
+        "clip_path": "clips/0ac24aad814e421ec78a7c17d9dc7624_clip.mp3",
+        "reveal_path": "reveals/0ac24aad814e421ec78a7c17d9dc7624_reveal.mp3"
+    },
+    {
+        "artist": "Billy Joel",
+        "id": 151,
+        "title": "Uptown Girl",
+        "clip_path": "clips/7f187212a20fc06d2ce96054eaa7c1a3_clip.mp3",
+        "reveal_path": "reveals/7f187212a20fc06d2ce96054eaa7c1a3_reveal.mp3"
+    },
+    {
+        "artist": "Britney Spears",
+        "id": 152,
+        "title": "Toxic",
+        "clip_path": "clips/8b656b739324a6eb7d1e2722c4df64ca_clip.mp3",
+        "reveal_path": "reveals/8b656b739324a6eb7d1e2722c4df64ca_reveal.mp3"
+    },
+    {
+        "artist": "Bon Jovi",
+        "id": 153,
+        "title": "Bad Medicine",
+        "clip_path": "clips/373aec4495f74ed4ff50dae023ab3f67_clip.mp3",
+        "reveal_path": "reveals/373aec4495f74ed4ff50dae023ab3f67_reveal.mp3"
+    },
+    {
+        "artist": "Iggy Pop",
+        "id": 154,
+        "title": "Lust for Life",
+        "clip_path": "clips/99ebee47842f884ab4c79a4bd2956f3f_clip.mp3",
+        "reveal_path": "reveals/99ebee47842f884ab4c79a4bd2956f3f_reveal.mp3"
+    },
+    {
+        "artist": "Men At Work",
+        "id": 155,
+        "title": "Down Under",
+        "clip_path": "clips/923ca528a6a79379a99fc51bc99df0b2_clip.mp3",
+        "reveal_path": "reveals/923ca528a6a79379a99fc51bc99df0b2_reveal.mp3"
+    },
+    {
+        "artist": "George Michael & Aretha Franklin",
+        "id": 156,
+        "title": "I Knew You Were Waiting",
+        "clip_path": "clips/dcf7bd0d77ed3bdf7ed0af4f8a930c31_clip.mp3",
+        "reveal_path": "reveals/dcf7bd0d77ed3bdf7ed0af4f8a930c31_reveal.mp3"
+    },
+    {
+        "artist": "Madonna",
+        "id": 157,
+        "title": "Borderline",
+        "clip_path": "clips/5dfa724586324d4032747043e5520bf1_clip.mp3",
+        "reveal_path": "reveals/5dfa724586324d4032747043e5520bf1_reveal.mp3"
+    },
+    {
+        "artist": "Soft Cell",
+        "id": 158,
+        "title": "Tainted Love",
+        "clip_path": "clips/2f860714e40c6d8075119c7642bd9870_clip.mp3",
+        "reveal_path": "reveals/2f860714e40c6d8075119c7642bd9870_reveal.mp3"
+    },
+    {
+        "artist": "Extreme",
+        "id": 159,
+        "title": "More Than Words",
+        "clip_path": "clips/52a8aaec9437920d7b0e08314a062e96_clip.mp3",
+        "reveal_path": "reveals/52a8aaec9437920d7b0e08314a062e96_reveal.mp3"
+    },
+    {
+        "artist": "Deacon Blue",
+        "id": 160,
+        "title": "I'll Never Fall In Love Again",
+        "clip_path": "clips/7e570eec94e092f1b739a8a00adb14ee_clip.mp3",
+        "reveal_path": "reveals/7e570eec94e092f1b739a8a00adb14ee_reveal.mp3"
+    },
+    {
+        "artist": "Billie Piper",
+        "id": 161,
+        "title": "Because We Want To",
+        "clip_path": "clips/8e6e7376a69486b4b4276028fa6bbd6f_clip.mp3",
+        "reveal_path": "reveals/8e6e7376a69486b4b4276028fa6bbd6f_reveal.mp3"
+    },
+    {
+        "artist": "Take That",
+        "id": 162,
+        "title": "Back For Good",
+        "clip_path": "clips/604d0f5bb2575e030b4ec94bd112b891_clip.mp3",
+        "reveal_path": "reveals/604d0f5bb2575e030b4ec94bd112b891_reveal.mp3"
+    },
+    {
+        "artist": "John Lennon",
+        "id": 163,
+        "title": "Woman",
+        "clip_path": "clips/ee6322fde6f8d3595aea5cf520f38c29_clip.mp3",
+        "reveal_path": "reveals/ee6322fde6f8d3595aea5cf520f38c29_reveal.mp3"
+    },
+    {
+        "artist": "Stealers Wheels",
+        "id": 164,
+        "title": "Stuck In The Middle With You",
+        "clip_path": "clips/1927d4e8f480ff7d2ad1d14842a5a2d4_clip.mp3",
+        "reveal_path": "reveals/1927d4e8f480ff7d2ad1d14842a5a2d4_reveal.mp3"
+    },
+    {
+        "artist": "Elvis Presley",
+        "id": 165,
+        "title": "Suspicious Minds",
+        "clip_path": "clips/12b3d514e3029222e384f8c6cc603f38_clip.mp3",
+        "reveal_path": "reveals/12b3d514e3029222e384f8c6cc603f38_reveal.mp3"
+    },
+    {
+        "artist": "Jessie J",
+        "id": 166,
+        "title": "Domino",
+        "clip_path": "clips/381f66d3d1a717883515a37d71161cc5_clip.mp3",
+        "reveal_path": "reveals/381f66d3d1a717883515a37d71161cc5_reveal.mp3"
+    },
+    {
+        "artist": "Wanted",
+        "id": 167,
+        "title": "Walks Like Rihanna",
+        "clip_path": "clips/953781d833d8ed8b71f13a828aba0a96_clip.mp3",
+        "reveal_path": "reveals/953781d833d8ed8b71f13a828aba0a96_reveal.mp3"
+    },
+    {
+        "artist": "Billie Piper",
+        "id": 168,
+        "title": "Walk Of Life",
+        "clip_path": "clips/ed2d42c5a5377d2cc52a1a5767faa8af_clip.mp3",
+        "reveal_path": "reveals/ed2d42c5a5377d2cc52a1a5767faa8af_reveal.mp3"
+    },
+    {
+        "artist": "Kylie Minogue",
+        "id": 169,
+        "title": "Step Back In Time",
+        "clip_path": "clips/32be3c676691a939f7818dd0f08b29a1_clip.mp3",
+        "reveal_path": "reveals/32be3c676691a939f7818dd0f08b29a1_reveal.mp3"
+    },
+    {
+        "artist": "Elvis Presley",
+        "id": 170,
+        "title": "Return To Sender",
+        "clip_path": "clips/e53161bae6a95cdba756c38c4785c813_clip.mp3",
+        "reveal_path": "reveals/e53161bae6a95cdba756c38c4785c813_reveal.mp3"
+    },
+    {
+        "artist": "Dion & The Belmonts",
+        "id": 171,
+        "title": "A Teenager In Love",
+        "clip_path": "clips/faff337b81f8596c372786acfb365f23_clip.mp3",
+        "reveal_path": "reveals/faff337b81f8596c372786acfb365f23_reveal.mp3"
+    },
+    {
+        "artist": "New Kids On The Block",
+        "id": 172,
+        "title": "Step By Step",
+        "clip_path": "clips/d7479eb2496079ce4e771c7bb0874eee_clip.mp3",
+        "reveal_path": "reveals/d7479eb2496079ce4e771c7bb0874eee_reveal.mp3"
+    },
+    {
+        "artist": "Dolly Parton",
+        "id": 173,
+        "title": "9 To 5",
+        "clip_path": "clips/933c22c82ceac193c7903896c7b8ab4a_clip.mp3",
+        "reveal_path": "reveals/933c22c82ceac193c7903896c7b8ab4a_reveal.mp3"
+    },
+    {
+        "artist": "Justin Bieber",
+        "id": 174,
+        "title": "Baby",
+        "clip_path": "clips/984d6a99e4a1b8092fd7a45773144c32_clip.mp3",
+        "reveal_path": "reveals/984d6a99e4a1b8092fd7a45773144c32_reveal.mp3"
+    },
+    {
+        "artist": "Bros",
+        "id": 175,
+        "title": "I Owe You Nothing",
+        "clip_path": "clips/f5d099e850053c262bf3bfaa0194437d_clip.mp3",
+        "reveal_path": "reveals/f5d099e850053c262bf3bfaa0194437d_reveal.mp3"
+    },
+    {
+        "artist": "Bananarama",
+        "id": 176,
+        "title": "Cruel Summer",
+        "clip_path": "clips/961d04ee4942548c67d69feb1be2d505_clip.mp3",
+        "reveal_path": "reveals/961d04ee4942548c67d69feb1be2d505_reveal.mp3"
+    },
+    {
+        "artist": "Take That",
+        "id": 177,
+        "title": "Patience",
+        "clip_path": "clips/429be7153ad8121335755cf801f071ea_clip.mp3",
+        "reveal_path": "reveals/429be7153ad8121335755cf801f071ea_reveal.mp3"
+    },
+    {
+        "artist": "Alice Cooper",
+        "id": 178,
+        "title": "School's Out",
+        "clip_path": "clips/67b7bb5a285a02423fa410a1c03d34d6_clip.mp3",
+        "reveal_path": "reveals/67b7bb5a285a02423fa410a1c03d34d6_reveal.mp3"
+    },
+    {
+        "artist": "Foreigner",
+        "id": 179,
+        "title": "Waiting For A Girl Like You",
+        "clip_path": "clips/8d47d8ddc2051322e5b1a2b64d8baa1f_clip.mp3",
+        "reveal_path": "reveals/8d47d8ddc2051322e5b1a2b64d8baa1f_reveal.mp3"
+    },
+    {
+        "artist": "Busted",
+        "id": 180,
+        "title": "What I Go To School For",
+        "clip_path": "clips/251f43e5e7785d88497f189c5c894d63_clip.mp3",
+        "reveal_path": "reveals/251f43e5e7785d88497f189c5c894d63_reveal.mp3"
+    },
+    {
+        "artist": "T'pau",
+        "id": 181,
+        "title": "Heart And Soul",
+        "clip_path": "clips/0f90c847827637bddfc8a9b5c9b6f194_clip.mp3",
+        "reveal_path": "reveals/0f90c847827637bddfc8a9b5c9b6f194_reveal.mp3"
+    },
+    {
+        "artist": "Daniel Bedingfield",
+        "id": 182,
+        "title": "James Dean",
+        "clip_path": "clips/e2680b3470069de082f599ffe70aeb7c_clip.mp3",
+        "reveal_path": "reveals/e2680b3470069de082f599ffe70aeb7c_reveal.mp3"
+    },
+    {
+        "artist": "Rod Stewart",
+        "id": 183,
+        "title": "Do Ya Think I'm Sexy",
+        "clip_path": "clips/ce7b463b89d45af4c7089631767cd915_clip.mp3",
+        "reveal_path": "reveals/ce7b463b89d45af4c7089631767cd915_reveal.mp3"
+    },
+    {
+        "artist": "Abba",
+        "id": 184,
+        "title": "The Name Of The Game",
+        "clip_path": "clips/f84b4c7501b2abf985ff314411d2c083_clip.mp3",
+        "reveal_path": "reveals/f84b4c7501b2abf985ff314411d2c083_reveal.mp3"
+    },
+    {
+        "artist": "Leo Sayer",
+        "id": 185,
+        "title": "More Than I Can Say",
+        "clip_path": "clips/ef21ef15069838722416c46b550834d4_clip.mp3",
+        "reveal_path": "reveals/ef21ef15069838722416c46b550834d4_reveal.mp3"
+    },
+    {
+        "artist": "Scarlett",
+        "id": 186,
+        "title": "Independent Love Song",
+        "clip_path": "clips/5c32fbaacd1204acc219f8a762dc6db1_clip.mp3",
+        "reveal_path": "reveals/5c32fbaacd1204acc219f8a762dc6db1_reveal.mp3"
+    }
+]
