@@ -4,9 +4,10 @@ const Media = Object.freeze({
   Audio: "audio",
   Video: "video",
   Image: "image",
+  Text: "text",
 });
 
-CategorySchema = new mongoose.Schema({
+const CategorySchema = new mongoose.Schema({
   name: String,
   triviaDbCode: String,
   mediaType: {
@@ -15,7 +16,7 @@ CategorySchema = new mongoose.Schema({
   },
 });
 
-QuestionSchema = new mongoose.Schema({
+const QuestionSchema = new mongoose.Schema({
   description: String,
   mediaLink: String,
   revealMediaLink: String,
@@ -32,17 +33,23 @@ QuestionSchema = new mongoose.Schema({
   ],
 });
 
-RoundSchema = new mongoose.Schema({
+const RoundSchema = new mongoose.Schema({
   title: String,
-  roundID: String,
+  roundID: {
+    type: String,
+    unique: true,
+  },
   type: String,
   category: CategorySchema,
   questions: [QuestionSchema],
 });
 
-QuizSchema = new mongoose.Schema({
+const QuizSchema = new mongoose.Schema({
   name: String,
-  slug: String,
+  slug: {
+    type: String,
+    unique: true,
+  },
   rounds: [RoundSchema],
 });
 

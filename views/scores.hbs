@@ -1,0 +1,18 @@
+<h1>{{ title }}</h1>
+
+<h2>{{ roundTitle }} - Scores</h2>
+
+{{#each scores}}
+<p>Your Answer: {{{myAnswer}}}</p>
+<p>Correct Answer: {{{rightAnswer}}}</p>
+{{#if correct}}
+Right!
+{{else}}
+Wrong!
+{{/if}}
+<hr>
+{{/each}}
+
+<h4>Round Score: {{roundScore}}</h4>
+
+<a href="/round/{{ nextRound }}" class="btn">Next Round</a>

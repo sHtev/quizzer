@@ -1,12 +1,12 @@
 import mongoose from "mongoose";
 
-RoundAnswersSchema = new mongoose.Schema({
+const RoundAnswersSchema = new mongoose.Schema({
   roundID: String,
   roundTotal: Number,
   answers: [String],
 });
 
-AnswerSheetSchema = new mongoose.Schema({
+const AnswerSheetSchema = new mongoose.Schema({
   currentTotal: Number,
   rounds: [RoundAnswersSchema],
 });

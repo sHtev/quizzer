@@ -6,11 +6,15 @@ import { default as connectMongoDBSession } from "connect-mongodb-session";
 import bodyParser from "body-parser";
 import cookieParser from "cookie-parser";
 import exphbs from "express-handlebars";
+import hbars from "handlebars";
+import ipa from "@handlebars/allow-prototype-access";
 import logger from "morgan";
 import session from "express-session";
 
 import homeRouter from "./routes/home.js";
 import registerRouter from "./routes/register.js";
+import quizRouter from "./routes/quiz.js";
+import roundRouter from "./routes/round.js";
 import usersRouter from "./routes/users.js";
 
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
@@ -24,8 +28,24 @@ const store = new MongoDBStore({
 const app = express();
 const hbs = exphbs.create({
   extname: "hbs",
+  handlebars: ipa.allowInsecurePrototypeAccess(hbars),
   layoutsDir: path.join(__dirname, "../views/layouts/"),
   partialsDir: path.join(__dirname, "../views/partials/"),
+  allowProtoPropertiesByDefault: true,
+  helpers: {
+    // Function to do basic mathematical operation in handlebar
+    math: function (lvalue, operator, rvalue) {
+      lvalue = parseFloat(lvalue);
+      rvalue = parseFloat(rvalue);
+      return {
+        "+": lvalue + rvalue,
+        "-": lvalue - rvalue,
+        "*": lvalue * rvalue,
+        "/": lvalue / rvalue,
+        "%": lvalue % rvalue,
+      }[operator];
+    },
+  },
 });
 
 app.use(express.static(path.join(__dirname, "../public")));
@@ -61,6 +81,12 @@ app.use(
 
 app.use("/", homeRouter);
 app.use("/register", registerRouter);
+app.use("/quiz", quizRouter);
+app.use("/round", roundRouter);
+app.get("/logout", function (req, res, next) {
+  req.session.destroy();
+  res.redirect("/");
+});
 app.use("/users", usersRouter);
 
 export default app;

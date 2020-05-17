@@ -22,11 +22,11 @@ router.post("/", (req, res, next) => {
   } else if (!req.session.registeredQuiz) {
     res.redirect("/");
   } else {
-    Registration.findOne(
-      {
-        registrationCode: req.query.reg_code,
-      },
-      (_, registration) => {
+    Registration.findOne({
+      registrationCode: req.query.reg_code,
+    })
+      .populate("quiz")
+      .exec((_, registration) => {
         if (!registration) {
           req.session.destroy();
           res.redirect("/");
@@ -36,8 +36,7 @@ router.post("/", (req, res, next) => {
           req.session.registeredQuiz = registration;
           res.redirect("/quiz");
         }
-      }
-    );
+      });
   }
 });
 
@@ -48,13 +47,14 @@ router.get("/", (req, res, next) => {
     next(res);
   } else if (!req.session.registeredQuiz) {
     console.log("checking registration");
-    Registration.findOne(
-      {
-        registrationCode: req.query.reg_code,
-      },
-      (err, registration) => {
+    Registration.findOne({
+      registrationCode: req.query.reg_code,
+    })
+      .populate("quiz")
+      .exec((err, registration) => {
         console.log("got something");
         console.log(registration);
+        console.log(registration.quiz.slug);
         if (!registration) {
           res.redirect("/");
           next(res);
@@ -62,8 +62,7 @@ router.get("/", (req, res, next) => {
           req.session.registeredQuiz = registration;
           checkTeam(req, res);
         }
-      }
-    );
+      });
   } else {
     checkTeam(req, res);
   }

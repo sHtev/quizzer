@@ -1,0 +1,21 @@
+<h1>{{ title }}</h1>
+
+<h2>{{ roundTitle }} - Answers</h2>
+
+{{#each answers}}
+{{#if ../hasImage}}
+<img src="{{mediaLink}}">
+{{/if}}
+<p>Question {{@index}} - {{{description}}} </p>
+{{#if ../hasSound}}
+<div>Reversed</div><audio controls="controls" src="{{mediaLink}}">your browser does not support the audio
+    element</audio>
+<div>Original</div><audio controls="controls" src="{{revealMediaLink}}">your browser does not support the audio
+    element</audio>
+{{/if}}
+
+<p>Answer{{#each correctAnswers}}<span> - {{{this}}}</span>{{/each}}</p>
+<hr>
+{{/each}}
+
+<a href="/round/{{ nextRound }}" class="btn">Next Round</a>

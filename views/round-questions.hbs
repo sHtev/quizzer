@@ -1,0 +1,44 @@
+<h1>{{ title }}</h1>
+
+<h2>Round {{ currentRound }} - {{ roundTitle }}</h2>
+<form name="round-answers" method="post">
+    {{#each questions}}
+    {{#if ../hasImage}}
+    <img src="{{mediaLink}}">
+    {{/if}}
+    <p>Question {{ math @index "+" 1}} - {{{description}}} </p>
+    {{#if ../hasSound}}
+    <audio controls="controls" src="{{mediaLink}}">your browser does not support the audio
+        element</audio>
+    {{/if}}
+    <fieldset name={{@index}}>
+        {{#if ../hasSound}}
+        <label for="artist-{{@index}}">Artist</label>
+        <input type="text" id="artist-{{@index}}" name="{{@index}}-1"><br><br>
+        <label for="title-{{@index}}">Title</label>
+        <input type="text" id="title-{{@index}}" name="{{@index}}-2"><br><br>
+        {{/if}}
+        {{#if ../hasImage}}
+        <label for="title-{{@index}}">Title</label>
+        <input type="text" id="title-{{@index}}" name="{{@index}}"><br><br>
+        {{/if}}
+        {{#if ../isBoolean}}
+        <input type="radio" id="true-{{@index}}" name="{{@index}}" value="True">
+        <label for="true-{{@index}}">True</label><br>
+        <input type="radio" id="false-{{@index}}" name="{{@index}}" value="False">
+        <label for="false-{{@index}}">False</label><br>
+        {{/if}}
+        {{#if ../isMultiple}}
+        {{#each allAnswers}}
+        <input type="radio" id="answer-{{@../index}}--{{@index}}" name="{{@../index}}" value="{{answer}}">
+        <label for="answer-{{@../index}}">{{{answer}}}</label><br>
+        {{/each}}
+        {{/if}}
+    </fieldset>
+    <hr>
+    {{/each}}
+    <input type="submit" value="Submit">
+</form>
+{{#if isMaster }}
+<a href="/round/{{ nextRound }}" class="btn">Next Round</a>
+{{/if}}
