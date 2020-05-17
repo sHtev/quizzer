@@ -1,0 +1,854 @@
+{
+    "name": "The Gilroy Quiz Number 1",
+    "slug": "gilroy-quiz-one",
+    "rounds": [
+        {
+            "title": "General Knowledge",
+            "type": "multiple",
+            "roundID": "gilroy-quiz-one-1",
+            "category": {
+                "name": "General Knowledge",
+                "type": "text",
+                "triviaDbCode": "9"
+            },
+            "questions": [
+                {
+                    "description": "Which of these companies does NOT manufacture automobiles?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Ducati"
+                    ],
+                    "incorrectAnswers": [
+                        "Nissan",
+                        "GMC",
+                        "Fiat"
+                    ]
+                },
+                {
+                    "description": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Niagara Mohawk Building"
+                    ],
+                    "incorrectAnswers": [
+                        "Taipei 101",
+                        "One Detroit Center",
+                        "Westendstrasse 1"
+                    ]
+                },
+                {
+                    "description": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Bullfighting"
+                    ],
+                    "incorrectAnswers": [
+                        "Fiestas",
+                        "Flamenco",
+                        "Mariachi"
+                    ]
+                },
+                {
+                    "description": "What is the romanized Japanese word for &quot;university&quot;?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Daigaku"
+                    ],
+                    "incorrectAnswers": [
+                        "Toshokan",
+                        "Jimusho",
+                        "Shokudou"
+                    ]
+                },
+                {
+                    "description": "Amsterdam Centraal station is twinned with what station?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "London Liverpool Street"
+                    ],
+                    "incorrectAnswers": [
+                        "Frankfurt (Main) Hauptbahnhof",
+                        "Paris Gare du Nord",
+                        "Brussels Midi"
+                    ]
+                },
+                {
+                    "description": "Which of the following carbonated soft drinks were introduced first?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Dr. Pepper"
+                    ],
+                    "incorrectAnswers": [
+                        "Coca-Cola",
+                        "Sprite",
+                        "Mountain Dew"
+                    ]
+                },
+                {
+                    "description": "What direction does the Statue of Liberty face?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Southeast"
+                    ],
+                    "incorrectAnswers": [
+                        "Southwest",
+                        "Northwest",
+                        "Northeast"
+                    ]
+                },
+                {
+                    "description": "What is a Burgee?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "A flag"
+                    ],
+                    "incorrectAnswers": [
+                        "A rope",
+                        "A window",
+                        "A type of food"
+                    ]
+                },
+                {
+                    "description": "Where did the pineapple plant originate?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "South America"
+                    ],
+                    "incorrectAnswers": [
+                        "Hawaii",
+                        "Europe",
+                        "Asia"
+                    ]
+                },
+                {
+                    "description": "Which company&#039;s original slogan was &quot;Don&#039;t be evil&quot;?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Google"
+                    ],
+                    "incorrectAnswers": [
+                        "Apple",
+                        "Yahoo",
+                        "Microsoft"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Literature",
+            "type": "multiple",
+            "roundID": "gilroy-quiz-one-2",
+            "category": {
+                "name": "Literature",
+                "type": "text",
+                "triviaDbCode": "10"
+            },
+            "questions": [
+                {
+                    "description": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "George R. R. Martin"
+                    ],
+                    "incorrectAnswers": [
+                        "George Lucas",
+                        "George Orwell",
+                        "George Eliot"
+                    ]
+                },
+                {
+                    "description": "What position does Harry Potter play in Quidditch?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Seeker"
+                    ],
+                    "incorrectAnswers": [
+                        "Beater",
+                        "Chaser",
+                        "Keeper"
+                    ]
+                },
+                {
+                    "description": "What is the fourth book of the Old Testament?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Numbers"
+                    ],
+                    "incorrectAnswers": [
+                        "Genesis",
+                        "Exodus",
+                        "Leviticus"
+                    ]
+                },
+                {
+                    "description": "By what name was the author Eric Blair better known?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "George Orwell"
+                    ],
+                    "incorrectAnswers": [
+                        "Aldous Huxley",
+                        "Ernest Hemingway",
+                        "Ray Bradbury"
+                    ]
+                },
+                {
+                    "description": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "The Balmoral"
+                    ],
+                    "incorrectAnswers": [
+                        "The Dunstane Hotel",
+                        "Hotel Novotel",
+                        "Sheraton Grand Hotel &amp; Spa"
+                    ]
+                },
+                {
+                    "description": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "My Struggle"
+                    ],
+                    "incorrectAnswers": [
+                        "My Hatred",
+                        "My Sadness",
+                        "My Desire"
+                    ]
+                },
+                {
+                    "description": "The book &quot;The Little Prince&quot; was written by...",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Antoine de Saint-Exup&eacute;ry"
+                    ],
+                    "incorrectAnswers": [
+                        "Miguel de Cervantes Saavedra",
+                        "Jane Austen",
+                        "F. Scott Fitzgerald"
+                    ]
+                },
+                {
+                    "description": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "1989 Toyota Land Cruiser"
+                    ],
+                    "incorrectAnswers": [
+                        "1989 Jeep Wrangler YJ Sahar",
+                        "1989 Ford Explorer XLT",
+                        "Mercedes M-Class"
+                    ]
+                },
+                {
+                    "description": "Which of the following was the author of &quot;Username Evie&quot;?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Joe Sugg"
+                    ],
+                    "incorrectAnswers": [
+                        "Zoe Sugg",
+                        "Joe Weller",
+                        "Alfie Deyes"
+                    ]
+                },
+                {
+                    "description": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Saphira"
+                    ],
+                    "incorrectAnswers": [
+                        "Glaedr",
+                        "Thorn",
+                        "Arya"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Backwards Songs",
+            "type": "music",
+            "roundID": "gilroy-quiz-one-3",
+            "category": {
+                "name": "Backwards Songs",
+                "type": "text",
+                "triviaDbCode": "100"
+            },
+            "questions": [
+                {
+                    "description": "Can you name the artist and song title from the reversed song?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "Champagne Supernova",
+                        "Oasis"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/clips/ff92cf83350f02b3fb62cf066b8019e2_clip.mp3",
+                    "revealMediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/reveals/ff92cf83350f02b3fb62cf066b8019e2_reveal.mp3"
+                },
+                {
+                    "description": "Can you name the artist and song title from the reversed song?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "In The Navy",
+                        "Village People"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/clips/a240af456fce62a27300d307b7e24d99_clip.mp3",
+                    "revealMediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/reveals/a240af456fce62a27300d307b7e24d99_reveal.mp3"
+                },
+                {
+                    "description": "Can you name the artist and song title from the reversed song?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "Like A Prayer",
+                        "Madonna"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/clips/591515fa78be545ebe543ee29aa0ac93_clip.mp3",
+                    "revealMediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/reveals/591515fa78be545ebe543ee29aa0ac93_reveal.mp3"
+                },
+                {
+                    "description": "Can you name the artist and song title from the reversed song?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "Common People",
+                        "Pulp"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/clips/9f556bbd5d157f05a3ca33fbcac008e7_clip.mp3",
+                    "revealMediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/reveals/9f556bbd5d157f05a3ca33fbcac008e7_reveal.mp3"
+                },
+                {
+                    "description": "Can you name the artist and song title from the reversed song?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "Funkytown",
+                        "Lipps Inc"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/clips/bcdc446f26a476a157b18539e8777110_clip.mp3",
+                    "revealMediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/songs/reveals/bcdc446f26a476a157b18539e8777110_reveal.mp3"
+                }
+            ]
+        },
+        {
+            "title": "Maths",
+            "type": "multiple",
+            "roundID": "gilroy-quiz-one-4",
+            "category": {
+                "name": "Maths",
+                "type": "text",
+                "triviaDbCode": "19"
+            },
+            "questions": [
+                {
+                    "description": "In the hexadecimal system, what number comes after 9?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "The Letter A"
+                    ],
+                    "incorrectAnswers": [
+                        "10",
+                        "The Number 0",
+                        "16"
+                    ]
+                },
+                {
+                    "description": "How many zeros are there in a googol?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "100"
+                    ],
+                    "incorrectAnswers": [
+                        "10",
+                        "1,000",
+                        "1,000,000"
+                    ]
+                },
+                {
+                    "description": "What is the Roman numeral for 500?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "D"
+                    ],
+                    "incorrectAnswers": [
+                        "L",
+                        "C",
+                        "X"
+                    ]
+                },
+                {
+                    "description": "What is the first Mersenne prime exponent over 1000?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "1279"
+                    ],
+                    "incorrectAnswers": [
+                        "2203",
+                        "1009",
+                        "1069"
+                    ]
+                },
+                {
+                    "description": "What is the alphanumeric representation of the imaginary number?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "i"
+                    ],
+                    "incorrectAnswers": [
+                        "e",
+                        "n",
+                        "x"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mythology",
+            "type": "multiple",
+            "roundID": "gilroy-quiz-one-5",
+            "category": {
+                "name": "Mythology",
+                "type": "text",
+                "triviaDbCode": "20"
+            },
+            "questions": [
+                {
+                    "description": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Athena"
+                    ],
+                    "incorrectAnswers": [
+                        "Ares",
+                        "Artemis",
+                        "Apollo"
+                    ]
+                },
+                {
+                    "description": "Who was the Roman god of fire?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Vulcan"
+                    ],
+                    "incorrectAnswers": [
+                        "Apollo",
+                        "Jupiter",
+                        "Mercury"
+                    ]
+                },
+                {
+                    "description": "Neptune&#039;s greek name was...",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Poseidon"
+                    ],
+                    "incorrectAnswers": [
+                        "Ares",
+                        "Zeus",
+                        "Apollo"
+                    ]
+                },
+                {
+                    "description": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Enkidu"
+                    ],
+                    "incorrectAnswers": [
+                        "Enki",
+                        "Enlil",
+                        "Enkimdu"
+                    ]
+                },
+                {
+                    "description": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Janus"
+                    ],
+                    "incorrectAnswers": [
+                        "Vulcan",
+                        "Juno",
+                        "Mars"
+                    ]
+                },
+                {
+                    "description": "A minotaur is half human half what?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Bull"
+                    ],
+                    "incorrectAnswers": [
+                        "Cow",
+                        "Horse",
+                        "Eagle"
+                    ]
+                },
+                {
+                    "description": "Which of the following is not one of the Greek Fates?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Narcissus"
+                    ],
+                    "incorrectAnswers": [
+                        "Clotho",
+                        "Atropos",
+                        "Lachesis"
+                    ]
+                },
+                {
+                    "description": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "New Zealand"
+                    ],
+                    "incorrectAnswers": [
+                        "Vanuatu",
+                        "Fiji",
+                        "Hawaii"
+                    ]
+                },
+                {
+                    "description": "The Norse god Odin has two pet crows named &quot;Huginn&quot; and &quot;Muninn&quot;.  What do their names mean?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Thought &amp; Memory"
+                    ],
+                    "incorrectAnswers": [
+                        "Power &amp; Peace",
+                        "War &amp; Learning",
+                        "Sleeping &amp; Waking"
+                    ]
+                },
+                {
+                    "description": "What is the name of the first human being in Norse mythology?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Ask"
+                    ],
+                    "incorrectAnswers": [
+                        "Asmund",
+                        "Ake",
+                        "Asger"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Geography",
+            "type": "multiple",
+            "roundID": "gilroy-quiz-one-6",
+            "category": {
+                "name": "Geography",
+                "type": "text",
+                "triviaDbCode": "22"
+            },
+            "questions": [
+                {
+                    "description": "How many countries are inside the United Kingdom?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Four"
+                    ],
+                    "incorrectAnswers": [
+                        "Two",
+                        "Three",
+                        "One"
+                    ]
+                },
+                {
+                    "description": "Which European city has the highest mileage of canals in the world?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Birmingham"
+                    ],
+                    "incorrectAnswers": [
+                        "Venice",
+                        "Amsterdam",
+                        "Berlin"
+                    ]
+                },
+                {
+                    "description": "What is the capital of Australia?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Canberra"
+                    ],
+                    "incorrectAnswers": [
+                        "Sydney",
+                        "Melbourne",
+                        "Brisbane"
+                    ]
+                },
+                {
+                    "description": "What is the capital of the State of Washington, United States?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Olympia"
+                    ],
+                    "incorrectAnswers": [
+                        "Washington D.C.",
+                        "Seattle",
+                        "Yukon"
+                    ]
+                },
+                {
+                    "description": "The historical city Timbuktu is located in which West African country?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Mali"
+                    ],
+                    "incorrectAnswers": [
+                        "Senegal",
+                        "Niger",
+                        "Burkina Faso"
+                    ]
+                },
+                {
+                    "description": "What is the right way to spell the capital of Hungary?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Budapest"
+                    ],
+                    "incorrectAnswers": [
+                        "Boodapest",
+                        "Bhudapest",
+                        "Budapast"
+                    ]
+                },
+                {
+                    "description": "What tiny principality lies between Spain and France?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Andorra"
+                    ],
+                    "incorrectAnswers": [
+                        "Liechtenstein",
+                        "Monaco",
+                        "San Marino"
+                    ]
+                },
+                {
+                    "description": "What is the highest mountain in the world?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Mt. Everest"
+                    ],
+                    "incorrectAnswers": [
+                        "Mount Godwin Austen",
+                        "Kangchenjunga",
+                        "Annapurna"
+                    ]
+                },
+                {
+                    "description": "What is the capital of Estonia?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Tallinn"
+                    ],
+                    "incorrectAnswers": [
+                        "Helsinki",
+                        "Tartu",
+                        "Riga"
+                    ]
+                },
+                {
+                    "description": "What is the longest river in Europe?",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "Volga"
+                    ],
+                    "incorrectAnswers": [
+                        "Danube",
+                        "Rhine",
+                        "Thames"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Name That Film",
+            "type": "film",
+            "roundID": "gilroy-quiz-one-7",
+            "category": {
+                "name": "Name That Film",
+                "type": "text",
+                "triviaDbCode": "101"
+            },
+            "questions": [
+                {
+                    "description": "Can you name the film from the screenshot above?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "Rashomon"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/screenshots/tt0042876/qLGAOQd1RSnfpJab0MN5Lubkgu5.jpg"
+                },
+                {
+                    "description": "Can you name the film from the screenshot above?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "Full Metal Jacket"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/screenshots/tt0093058/v6JAlrwRLCnIujs9NFIViursbhg.jpg"
+                },
+                {
+                    "description": "Can you name the film from the screenshot above?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "Citizen Kane"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/screenshots/tt0033467/cis8NS6598onNKaOevnx1ZarydW.jpg"
+                },
+                {
+                    "description": "Can you name the film from the screenshot above?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "One Flew Over the Cuckoo's Nest"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/screenshots/tt0073486/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg"
+                },
+                {
+                    "description": "Can you name the film from the screenshot above?",
+                    "freeText": true,
+                    "correctAnswers": [
+                        "Cinema Paradiso"
+                    ],
+                    "incorrectAnswers": [],
+                    "mediaLink": "https://pub-quiz-assets.s3-eu-west-1.amazonaws.com/screenshots/tt0095765/jOAXZ76GF1lbJ5kX4JIqruS0scC.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Video Games",
+            "type": "boolean",
+            "roundID": "gilroy-quiz-one-8",
+            "category": {
+                "name": "Video Games",
+                "type": "text",
+                "triviaDbCode": "15"
+            },
+            "questions": [
+                {
+                    "description": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "True"
+                    ],
+                    "incorrectAnswers": [
+                        "False"
+                    ]
+                },
+                {
+                    "description": "Tetris is the #1 best-selling video game of all-time.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "False"
+                    ],
+                    "incorrectAnswers": [
+                        "True"
+                    ]
+                },
+                {
+                    "description": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "True"
+                    ],
+                    "incorrectAnswers": [
+                        "False"
+                    ]
+                },
+                {
+                    "description": "The shotgun appears in every numbered Resident Evil game.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "True"
+                    ],
+                    "incorrectAnswers": [
+                        "False"
+                    ]
+                },
+                {
+                    "description": "In &quot;Space Station 13&quot;,  the station has a clown aboard it.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "True"
+                    ],
+                    "incorrectAnswers": [
+                        "False"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Random Selection",
+            "type": "boolean",
+            "roundID": "gilroy-quiz-one-9",
+            "category": {
+                "name": "Random Selection",
+                "type": "text",
+                "triviaDbCode": "0"
+            },
+            "questions": [
+                {
+                    "description": "In &quot;Metal Gear Solid 2&quot;, you will see through the eyes of Psycho Mantis if you go first person during his boss fight.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "True"
+                    ],
+                    "incorrectAnswers": [
+                        "False"
+                    ]
+                },
+                {
+                    "description": "The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "True"
+                    ],
+                    "incorrectAnswers": [
+                        "False"
+                    ]
+                },
+                {
+                    "description": "Druid is a mage class in &quot;Log Horizon&quot;.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "False"
+                    ],
+                    "incorrectAnswers": [
+                        "True"
+                    ]
+                },
+                {
+                    "description": "The Klingon home planet is Qo&#039;noS.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "True"
+                    ],
+                    "incorrectAnswers": [
+                        "False"
+                    ]
+                },
+                {
+                    "description": "In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+                    "freeText": false,
+                    "correctAnswers": [
+                        "True"
+                    ],
+                    "incorrectAnswers": [
+                        "False"
+                    ]
+                }
+            ]
+        }
+    ]
+}

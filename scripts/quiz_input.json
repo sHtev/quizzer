@@ -1,0 +1,58 @@
+{
+  "name": "The Gilroy Quiz Number 1",
+  "slug": "gilroy-quiz-one",
+  "rounds": [
+    {
+      "category": "9",
+      "type": "multiple",
+      "difficulty": "medium",
+      "questions": 10
+    },
+    {
+      "category": "10",
+      "type": "multiple",
+      "difficulty": "medium",
+      "questions": 10
+    },
+    {
+      "category": "100",
+      "type": "music",
+      "questions": 5
+    },
+    {
+      "category": "19",
+      "type": "multiple",
+      "difficulty": "medium",
+      "questions": 5
+    },
+    {
+      "category": "20",
+      "type": "multiple",
+      "difficulty": "medium",
+      "questions": 10
+    },
+    {
+      "category": "22",
+      "type": "multiple",
+      "difficulty": "medium",
+      "questions": 10
+    },
+    {
+      "category": "101",
+      "type": "film",
+      "questions": 5
+    },
+    {
+      "category": "15",
+      "type": "boolean",
+      "difficulty": "easy",
+      "questions": 5
+    },
+    {
+      "category": "0",
+      "type": "boolean",
+      "difficulty": "hard",
+      "questions": 5
+    }
+  ]
+}
