@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@handlebars/allow-prototype-access@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@handlebars/allow-prototype-access/-/allow-prototype-access-1.0.3.tgz#c1377438ba59da7d45db43e3be7d6f3eeece8103"
+  integrity sha512-UjIJnXYirTtSuRAC/3Sq+2XCRd3+JBW5+wQVu7cRCXisvEj/u/913QKH3D5+YVyJkz6cAyD70sQkaL5zvXql5Q==
+
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
@@ -854,6 +859,11 @@ lodash.set@4.x:
   version "4.3.2"
   resolved "https://registry.yarnpkg.com/lodash.set/-/lodash.set-4.3.2.tgz#d8757b1da807dde24816b0d6a84bea1a76230b23"
   integrity sha1-2HV7HagH3eJIFrDWqEvqGnYjCyM=
+
+lodash@^4.17.15:
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 lowercase-keys@^1.0.0, lowercase-keys@^1.0.1:
   version "1.0.1"
