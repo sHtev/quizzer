@@ -5,7 +5,7 @@ import os
 from PIL import Image
 import requests
 
-API_KEY = 'a5f1d489febdb6a0112a3d3197becc94'
+API_KEY = os.environ['TMDB_API_KEY']
 
 def get_shots():
     movie_list = []
